@@ -94,3 +94,6 @@ on the editor main thread via a Slate post-tick callback (because `unreal.*` is 
 
 MIT — see [LICENSE](LICENSE). Bundled fonts are under the SIL Open Font License — see
 [fonts/OFL-NOTICE.md](fonts/OFL-NOTICE.md).
+
+Not affiliated with or endorsed by Epic Games or Adobe. UEFN / Fortnite are trademarks of Epic
+Games; Substance 3D Painter is a trademark of Adobe.
