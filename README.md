@@ -1,5 +1,10 @@
 # Substance Painter → UEFN Bridge
 
+[![Release](https://img.shields.io/github/v/release/KiKoZl1/uefn-substance-bridge?color=FFFF29)](https://github.com/KiKoZl1/uefn-substance-bridge/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-FFFF29.svg)](LICENSE)
+![Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-11.x-FF087A)
+![UEFN](https://img.shields.io/badge/UEFN-UE%205.8-white)
+
 **Paint in Substance 3D Painter, see it in UEFN — instantly.**
 
 A two-process bridge that pushes your PBR textures *and* mesh from Adobe Substance 3D Painter
