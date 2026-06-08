@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Bridge runtime (temp texture/mesh handoff)
+substance_uefn_bridge/
+
+# NOTE: fonts/ IS committed on purpose (bundled OFL brand fonts).
