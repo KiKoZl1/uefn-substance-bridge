@@ -13,8 +13,6 @@ A two-process bridge that pushes your PBR textures *and* mesh from Adobe Substan
 straight into Unreal Editor for Fortnite (UEFN): builds the material network, creates a Material
 Instance, imports + spawns the mesh, and live-updates as you paint — no manual export/import loop.
 
-> by **KiKoZl** · Surprise Co. · [github.com/KiKoZl1](https://github.com/KiKoZl1)
-
 ---
 
 ## Features
