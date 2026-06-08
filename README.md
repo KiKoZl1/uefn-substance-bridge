@@ -7,6 +7,8 @@
 
 **Paint in Substance 3D Painter, see it in UEFN — instantly.**
 
+https://github.com/user-attachments/assets/c635ccfb-d6d5-49f2-8062-f5e1a5124228
+
 A two-process bridge that pushes your PBR textures *and* mesh from Adobe Substance 3D Painter
 straight into Unreal Editor for Fortnite (UEFN): builds the material network, creates a Material
 Instance, imports + spawns the mesh, and live-updates as you paint — no manual export/import loop.
